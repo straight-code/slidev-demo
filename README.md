@@ -1,3 +1,2 @@
-# slidev-5o9dcd
+# slidev-demo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/slidev-5o9dcd)
